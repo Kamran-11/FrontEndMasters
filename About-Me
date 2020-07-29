@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Page</title>
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+    <header>
+        <nav>
+            <span>Home</span>
+            <a href="hobbies.html">Hobbies</a>
+            <a href="#">About Me</a>
+            <a href="#">Contact Me</a>
+        </nav>
+    </header>
+    <h1>Kamran</h1>
+
+    <img src="images/SonicJackson.jpg" alt="SonicJackson" width="500px">
+
+    <h2>Who am I?</h2>
+
+    <p>
+        I am a person. I live in the UK. I currently work in IT and that is where I work currently.
+    </p>
+
+    <p>
+        Web Design and Development is where I would like to be. I hope to be able to create websites by myself, with just a design or idea provided to me.
+    </p>
+
+    <h2>Things to know about me:</h2>
+    <div>
+    <ol>
+        <li>I am in IT</li>
+        <li>I like football</li>
+        <li>I like Web Development</li>
+    </ol>
+    </div class="order">
+    <h2>Favourite/Relevant Quote</h2>
+    <p>Can be seen at the bottom of the page</p>
+    <br>
+
+    <h2>Website that I like to frequent: <a href="http://www.bbc.co.uk/football">BBC Football</a>
+    </h2>
+
+    <cite>If you spend too much time thinking about a thing, you'll never get it done. - Bruce Lee</cite>
+
+<hr>
+
+<footer>
+    <p>Copyright &copy; Kamran 2020</p>
+</footer>
+
+</body>
+</html>
